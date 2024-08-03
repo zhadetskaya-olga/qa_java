@@ -8,5 +8,6 @@ public class ClassCompareNum {
         else{
             System.out.println("a < b");
         }
+        System.out.println();
     }
 }

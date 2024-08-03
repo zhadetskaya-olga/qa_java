@@ -9,5 +9,6 @@ public class ClassCheckSum {
         else {
             System.out.println("Сумма отрицательная");
         }
+        System.out.println();
     }
 }
